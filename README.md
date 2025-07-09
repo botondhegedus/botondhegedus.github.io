@@ -1,2 +1,2 @@
 # botondhegedus.github.io
-The botondhegedus.github.io GitHub page
+The https://botondhegedus.github.io/ GitHub page
