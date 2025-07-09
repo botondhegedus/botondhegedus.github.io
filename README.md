@@ -1,2 +1,2 @@
-# hegedus-botond.hu
-hegedus-botond.hu private site bits that GS does not support
+# botondhegedus.github.io
+The botondhegedus.github.io GitHub page
